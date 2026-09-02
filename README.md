@@ -16,10 +16,8 @@ I am a Software Engineer specializing in backend architecture and system design,
 * **Tools & Concepts:** Git, RESTful APIs, System Design, Multi-Role Auth Architecture
 
 ### 📊 GitHub Stats
-<!-- You can add dynamic stat cards here using github-readme-stats (https://github.com/anuraghazra/github-readme-stats) -->
+[![Ankit's GitHub Stats](https://streak-stats.demolab.com?user=ankittchaudhary&theme=radical)](https://github.com/ankittchaudhary)
+
 [![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankittchaudhary&show_icons=true&theme=radical)](https://github.com/ankittchaudhary)
 
-### 📫 Let's Connect
-* **Portfolio:** [Link to your Next.js/Tailwind portfolio]
-* **LinkedIn:** [Link to your LinkedIn profile]
-* **Email:** [Your professional email address]
+
