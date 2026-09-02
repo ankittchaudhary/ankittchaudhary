@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Ankit Chaudhary 👋
 
-<!--
-**ankittchaudhary/ankittchaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer specializing in backend architecture and system design, with a strong foundation in modern full-stack development. I focus on building scalable systems, complex database schemas, and clean, maintainable code.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+* 🎓 Pursuing a Master of Computer Applications (MCA) — Expected Dec 2026.
+* 💻 Currently working as a Software Engineer and managing independent freelance projects.
+* ⚙️ Deeply focused on Data Structures, Algorithms, Spring Boot, and high-level System Design.
+* 🌱 Building PulsePhase (a multi-role educational marketplace) and KrishiRaksha (an AI-powered agricultural diagnostic tool).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Languages:** JavaScript, TypeScript, Java, Python
+* **Backend & Core:** Java, Spring Boot, Node.js, NestJS, Python
+* **Frontend:** JavaScript, TypeScript, Next.js, React, Tailwind CSS
+* **Databases & ORMs:** PostgreSQL, MongoDB, Prisma
+* **Tools & Concepts:** Git, RESTful APIs, System Design, Multi-Role Auth Architecture
+
+### 📊 GitHub Stats
+<!-- You can add dynamic stat cards here using github-readme-stats (https://github.com/anuraghazra/github-readme-stats) -->
+[![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankittchaudhary&show_icons=true&theme=radical)](https://github.com/ankittchaudhary)
+
+### 📫 Let's Connect
+* **Portfolio:** [Link to your Next.js/Tailwind portfolio]
+* **LinkedIn:** [Link to your LinkedIn profile]
+* **Email:** [Your professional email address]
