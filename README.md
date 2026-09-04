@@ -4,7 +4,7 @@ I am a Software Engineer specializing in backend architecture and system design,
 
 ### 🚀 About Me
 * 🎓 Pursuing a Master of Computer Applications (MCA) — Expected Dec 2026.
-* 💻 Currently working as a Software Engineer and managing independent freelance projects.
+* 💻 Currently working as a Software Engineer.
 * ⚙️ Deeply focused on Data Structures, Algorithms, Spring Boot, and high-level System Design.
 * 🌱 Building PulsePhase (a multi-role educational marketplace) and KrishiRaksha (an AI-powered agricultural diagnostic tool).
 
